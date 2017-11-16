@@ -38,9 +38,10 @@ hi Statement ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NON
 hi Directory ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
 hi MatchParen ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
 hi Structure ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
-hi Type ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
 hi Identifier ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
 hi StorageClass ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
+hi Type ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
+hi Operator ctermfg=80 ctermbg=NONE cterm=NONE guifg=#5fd7d7 guibg=NONE gui=NONE
 
 " ============
 "  paleblue
@@ -53,13 +54,12 @@ hi PreProc ctermfg=159 ctermbg=NONE cterm=NONE guifg=#afffff guibg=NONE gui=NONE
 hi Function ctermfg=148 ctermbg=NONE cterm=NONE guifg=#a6e22e guibg=NONE gui=NONE
 
 " ===============
-"  Emerald green
+"  oceanblue
 " ===============
-hi Operator ctermfg=42 ctermbg=NONE cterm=NONE guifg=#00d7af guibg=NONE gui=NONE
-hi Define ctermfg=42 ctermbg=NONE cterm=NONE guifg=#00d7af guibg=NONE gui=NONE
-hi DiffAdd ctermfg=42 ctermbg=NONE cterm=NONE guifg=#00d7af guibg=NONE gui=NONE
-hi Question ctermfg=42 ctermbg=NONE cterm=NONE guifg=#00d7af guibg=NONE gui=NONE
-hi Conditional ctermfg=42 ctermbg=NONE cterm=NONE guifg=#00d7af guibg=NONE gui=NONE
+hi Define ctermfg=36 ctermbg=NONE cterm=NONE guifg=#00af87 guibg=NONE gui=NONE
+hi DiffAdd ctermfg=36 ctermbg=NONE cterm=NONE guifg=#00af87 guibg=NONE gui=NONE
+hi Question ctermfg=36 ctermbg=NONE cterm=NONE guifg=#00af87 guibg=NONE gui=NONE
+hi Conditional ctermfg=36 ctermbg=NONE cterm=NONE guifg=#00af87 guibg=NONE gui=NONE
 
 " ============
 "  yellow
