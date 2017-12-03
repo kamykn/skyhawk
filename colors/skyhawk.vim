@@ -109,6 +109,11 @@ hi SpecialKey ctermfg=59 ctermbg=237 cterm=NONE guifg=#49483e guibg=#3c3d37 gui=
 hi Title ctermfg=231 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=NONE gui=bold
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 
+" =================
+"  menu
+" =================
+hi Pmenu ctermfg=186 ctermbg=236 cterm=NONE guifg=#e6db74 guibg=#3c3d37 gui=NONE
+hi PmenuSel ctermfg=80 ctermbg=59 cterm=NONE guifg=#5fd7d7 guibg=#49483e gui=NONE
 
 " =================
 "  link
